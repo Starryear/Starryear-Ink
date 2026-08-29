@@ -1,0 +1,7 @@
+interface:
+  display_name: "Starryear-Ink 星年水墨"
+  short_description: "将真实摄影转译为印刷记忆与彩墨余像的连续纸本作品"
+  brand_color: "#8A6F62"
+  default_prompt: "Use $starryear-ink to transform my photograph into a source-locked photographic, printed-memory, and chromatic-ink artwork."
+policy:
+  allow_implicit_invocation: true

@@ -16,7 +16,7 @@ Starryear-Ink 保留原照片的直接证据带，让场景在向下移动时逐
 
 ## 安装
 
-下载 [`Starryear-Ink-Skill-v2.1.0.zip`](downloads/Starryear-Ink-Skill-v2.1.0.zip)，解压到 Codex Skills 目录，或直接复制本仓库内容并保持目录结构不变。
+下载 [`Starryear-Ink-Skill-v2.1.0.zip`](https://github.com/Starryear/Starryear-Ink/releases/download/v2.1.0/Starryear-Ink-Skill-v2.1.0.zip)，解压到 Codex Skills 目录，或直接复制本仓库内容并保持目录结构不变。
 
 ## 参考作品
 

@@ -1,0 +1,1113 @@
+【005】Starryear-Ink 星年水墨
+这个Skill最早叫鹅鹅鹅，还蛮有意思！
+作者：Starryear
+================================================================================
+【关于 Starryear】♪主页群更新最近摄影Skill，欢迎加入~👏🏻
+🧩一个做Skill的摄影师
+🗞️【分享 AI 前沿技能与审美解构并赋能纪实影像】
+🧾 年｜风光影像摄影师｜视觉解构艺术家
+🪄 纪实拍摄 × 生成艺术 × 转译重构
+📓「摄影作品均原创，未经授权禁止转载商用」
+📜 [Starryear@outlook.com)（Starryear/年｜全网同名）
+
+================================================================================
+使用方法：
+1. 上传一张你自己的照片。
+2. 把下面【完整口令】从头到尾复制发送，直接发整个txt文件也可以。
+================================================================================
+【完整口令｜从下面开始复制】【完整口令｜从下面开始复制】【完整口令｜从下面开始复制】
+================================================================================
+1. CORE DEFINITION
+
+This visual family is not a full-image ink filter, a conventional watercolor conversion, or a traditional Chinese landscape painting. Its central method is a three-stage transformation of one photographic scene:
+
+PHOTOGRAPHIC EVIDENCE -> PRINTED MEMORY -> INK AFTERIMAGE
+
+The upper area preserves the real photograph as factual evidence. The middle area recalls the same scene through halftone, transfer print, etching, reduced-color fragments, or fine ink drawing. The lower area distills it again into broader and freer ink relationships. The subject remains traceable across all three states, even as visual fidelity decreases.
+
+2. FIXED FORMAT AND CANVAS
+
+All 10 reference works are RGB PNG images at 1024 x 1536 pixels.
+
+The aspect ratio is consistently 2:3 portrait.
+
+The artwork is one continuous authored sheet, not a framed poster and not a collection of independent panels.
+
+There is no conventional outer border.
+
+The overall feeling is quiet, tactile, editorial, archival, and materially believable.
+
+3. THE UPPER PHOTOGRAPHIC EVIDENCE BAND
+
+A truthful, full-color photograph occupies the upper portion of every composition.
+
+The photograph generally covers approximately 26-35% of the total canvas height, with about 30% as the visual center of the family.
+
+It is normally full bleed across the width of the canvas.
+
+The original subject identity, object count, geometry, viewpoint, spatial depth, lighting, and photographic character remain recognizable.
+
+The photograph may receive a very mild filmic warmth or paper-adjacent tonal adjustment, but it must not be repainted, redrawn, illustrated, or converted into an ink image.
+
+The photograph functions as evidence: it establishes what truly existed before the image begins to remember, simplify, and abstract it.
+
+4. THE TORN-PAPER TRANSITION
+
+The photograph always ends in one continuous, irregular, hand-torn horizontal edge.
+
+The tear varies naturally in height and contour. It is neither geometrically straight nor shaped like a clean digital wave.
+
+Pale fibers, deckled paper strands, rough pulp, slight thickness, and shallow contact shadows make the boundary feel physically torn.
+
+The transition does not use a hard divider, white gap, rectangular frame, scalloped border, or smooth vector mask.
+
+This edge is a major identity marker of the style. It turns the upper photograph into a physical fragment placed against or emerging from the paper field.
+
+5. THE LOWER PAPER FIELD
+
+Roughly the lower two thirds of the composition is a warm matte ivory paper surface.
+
+The paper is not pure white and not strongly yellow or brown.
+
+Its texture includes fine natural fibers, subtle tonal mottling, tiny specks, occasional faint folds, shallow wrinkles, and delicate age variation.
+
+The surface feels dry, absorbent, soft, and touchable rather than glossy or digitally smooth.
+
+Paper texture remains restrained. It must not become heavy grunge, dirty distressing, burnt parchment, or decorative vintage noise.
+
+The paper field acts as active negative space. Empty areas are deliberate compositional elements rather than unused background.
+
+6. THE TWO LOWER MEMORY STATES
+
+The photographed subject normally returns below the torn edge in two progressively looser forms.
+
+6.1 The First Memory
+
+Usually located between approximately 35% and 66% of the total canvas height.
+
+Smaller and more fragmentary than the upper photograph.
+
+More recognizable and precise than the final lower ink afterimage.
+
+Common visual treatments include imperfect halftone, newspaper dots, silkscreen loss, transfer print, graphite or etching-like contours, monochrome reduction, muted color fragments, or a small torn photographic remnant.
+
+It preserves important source geometry: repeated objects, silhouettes, perspective, spacing, directional lines, or landmark axes.
+
+It floats in the paper field rather than sitting inside a box.
+
+6.2 The Ink Afterimage
+
+Usually located in the lower third of the composition and may extend beyond a side or bottom edge.
+
+It reduces the scene to approximately two to five broad ink masses, a few dry-brush gestures, sparse contour lines, and only the minimum recognizable silhouettes.
+
+It is not a small realistic redraw of the photograph.
+
+It retains the scene's structural and emotional logic while allowing scale, overlap, texture, and precision to drift.
+
+The final effect should feel like a memory spreading through absorbent paper: recognizable through relationships rather than detail.
+
+7. SOURCE-BOUND VISUAL DNA
+
+Every successful transformation must extract and preserve five types of source evidence:
+
+Primary evidence:
+The subject or spatial relationship that makes the photograph distinctive.
+
+Count or rhythm:
+Repeated entities and intervals, such as three birds, two lemons, railing bars, flowers along a fence, steps along a shoreline, or repeated building volumes.
+
+Directional gesture:
+The main movement or axis, such as a curving branch, diagonal road, shoreline sweep, roof arc, reflected canopy oval, architectural perspective, or blurred moving figure.
+
+Negative-space shape:
+The major open region, such as sky, water, wall, bokeh, shadow, or the gap between subjects.
+
+Accent hue:
+One vivid source color capable of carrying the composition, such as orange, lemon yellow, cobalt blue, brick red, or pale sky blue.
+
+The first four facts should recur in both lower translations at decreasing fidelity. The fifth fact should appear only in small, controlled areas. Abstraction may change material, scale, placement, overlap, and detail, but it must not change the semantic identity of the original scene.
+
+8. COMPOSITIONAL BEHAVIOR
+
+The composition is asymmetrical but balanced.
+
+One area normally carries density while another remains quiet.
+
+The lower field contains extensive active negative space.
+
+Elements are rarely aligned into a rigid centered stack.
+
+The two lower translations may shift horizontally, overlap partially, or counterbalance each other.
+
+Broad masses are preferred over many small decorative pieces.
+
+The image should feel like one coherent sheet, not a scrapbook, contact sheet, triptych, or set of equal boxes.
+
+Visual movement often travels from the detailed photograph downward into increasingly sparse, diffuse, and abstract material.
+
+9. INK AND PRINT LANGUAGE
+
+The family gains its character from the contrast between precise print texture and free absorbent ink.
+
+Recurring materials include:
+
+Diluted grey, taupe, and blue-grey water blooms.
+
+Feathered edges and capillary spreading.
+
+Cauliflower blooms and pigment tide marks.
+
+Granular dry-brush drags and broken brush edges.
+
+Sparse charcoal or fine-line contours.
+
+Imperfect newspaper or silkscreen halftone.
+
+Local dot loss, faded transfer, and incomplete printing.
+
+Torn paper or photographic fragments with deckled edges.
+
+Soft, physically plausible contact shadows.
+
+Occasional flat color fields, small dots, short lines, or preserved-color details.
+
+A successful result should contain at least one precise print process and one freely spreading ink process. Applying one uniform watercolor treatment across every element does not match the reference family.
+
+10. COLOR SYSTEM
+
+The lower paper field uses a narrow, controlled palette:
+
+Warm ivory paper is visually dominant.
+
+Charcoal, smoky grey, and warm taupe form the principal translated imagery.
+
+Diluted blue-grey may support water, sky, distant architecture, foliage shadow, or spatial depth.
+
+Pure black is reserved for small anchors, the darkest silhouettes, fine contours, and editorial notation.
+
+Exactly one dominant accent hue is sampled from the source photograph.
+
+The accent color should remain subordinate, normally occupying less than approximately 8% of the complete canvas outside the upper photograph. It may appear as a small geometric field, a short line, a node, a few source details, or a torn shape. Multiple saturated hues should not compete for attention.
+
+Avoid neon color, rainbow accents, heavy overall sepia, black-dominant pages, decorative red seals, or saturated color covering large portions of the lower field.
+
+11. EDITORIAL NOTATION
+
+Most works include a small system of technical or editorial marks. These make the artwork feel measured and observed without turning it into an infographic.
+
+Common devices include:
+
+Very thin leader lines.
+
+Pin-sized nodes or dots.
+
+Small crosshairs.
+
+Short vertical or horizontal rules.
+
+Sparse halftone rectangles or matrices.
+
+Tiny alignment marks.
+
+Occasional restrained accent-colored lines or nodes.
+
+These marks should connect to real source relationships, axes, subjects, or visual tensions. They should not form a random decorative network. One compact notation system is enough.
+
+12. TYPOGRAPHY AND TEXT
+
+Text appears in many, but not all, reference works. It is secondary and never functions as a large promotional headline.
+
+Use a very small serif or typewriter-like face.
+
+Use muted black, brown, or grey.
+
+Letter spacing is often generous.
+
+Text may use lowercase sentence style or widely tracked small capitals.
+
+The text behaves like a visual inventory of the scene.
+
+Suitable language describes count, mass, axis, shadow, rhythm, line, color, or spatial air.
+
+A typical phrase is approximately 5-16 words.
+
+Example syntax only:
+
+three spare silhouettes, one dark vertical wash
+soft reflected masses and a few floating orange strokes
+one warm axis, low grey planes, broad blank air
+
+Do not copy these phrases automatically. Generate wording from the supplied photograph or use exact user-provided text. If accurate rendering cannot be guaranteed, omit the text or add it deterministically after image generation. Never accept misspelled, meaningless, pseudo-English, or illegible text.
+
+Avoid giant titles, Chinese brush calligraphy, traditional name seals, pseudo-Asian characters, decorative slogans, or typography that dominates the image.
+
+13. SUBJECT-SPECIFIC TRANSLATION LOGIC
+
+Single flower or shallow depth of field:
+
+Preserve the principal bloom, stem direction, soft background silhouettes, and the luminous source hue.
+
+Translate secondary flowers into diffuse ink shadows.
+
+Sparse repeated urban objects:
+
+Preserve object count, spacing, vertical rhythm, railing structure, and long shadows.
+
+Use halftone for the factual echo and broad architectural washes for the afterimage.
+
+Dense street or moving subject:
+
+Preserve sign mass, crossing lines, architectural compression, and the dominant movement gesture.
+
+Reduce the moving figure to one sweeping dark brush action.
+
+Coastline or large water geometry:
+
+Preserve shore contour, step rhythm, horizon, and large positive-negative water shapes.
+
+Let diluted blue-grey and torn paper shapes carry the lower abstraction.
+
+Traditional architecture with foliage:
+
+Preserve roof silhouette, wall plane, branch direction, and the relationship between built form and canopy.
+
+Do not introduce unrelated historical motifs.
+
+Reflection or pond surface:
+
+Preserve the mirror-like shape, inverted vegetation masses, and small floating color strokes.
+
+Use soft pooled washes rather than literal landscape drawing.
+
+Many flowers or fence rhythm:
+
+Preserve stem distribution, fence diagonal or horizontal rhythm, and one recurring flower silhouette.
+
+Reduce foliage density into a few broad ink clouds.
+
+Animals in a repeated group:
+
+Preserve the exact number of animals, their order, spacing, body direction, and surrounding vertical or grass gestures.
+
+Use fine-line silhouettes in the first memory and simplified small figures in the afterimage.
+
+Fruit or botanical branch:
+
+Preserve fruit count, branch arc, leaf direction, and the dominant fruit color.
+
+Use one restrained geometric color field to echo the fruit hue.
+
+City panorama or landmark axis:
+
+Preserve the defining landmark, skyline rhythm, roof planes, approach axis, and distant vertical bars.
+
+Simplify the skyline through halftone blocks and diluted architectural washes.
+
+14. GENERATION WORKFLOW
+
+Step 1: Inspect the source photograph.
+Identify the primary evidence, repeated count or rhythm, dominant directional line, largest negative-space shape, and one accent hue.
+
+Step 2: Select references by spatial logic.
+Choose examples with similar structural behavior: repeated subjects, one iconic subject, broad terrain, dense architecture, water geometry, organic branching, or shallow-depth botanical imagery. Do not select only by matching color.
+
+Step 3: Lock the evidence band.
+Reserve approximately 30% of the upper canvas for the truthful photograph. Preserve identity, geometry, viewpoint, count, and lighting.
+
+Step 4: Build the torn transition.
+Create one continuous fibrous hand-torn edge with irregular pulp, slight depth, and a natural contact shadow.
+
+Step 5: Construct the first memory.
+Translate the scene into halftone, transfer print, etching, graphite, reduced-color print, or a restrained torn fragment. Preserve source structure clearly.
+
+Step 6: Construct the afterimage.
+Reduce the scene to two to five broad washes, a few directional brush marks, and minimal source-specific silhouettes.
+
+Step 7: Carry one color accent.
+Sample one meaningful source hue and repeat it in only a few controlled marks.
+
+Step 8: Add editorial notation.
+Use a small number of hairline rules, nodes, or crosshairs tied to actual visual relationships.
+
+Step 9: Add text only if it improves the page.
+Use one exact, short, readable visual-inventory phrase. No headline is required.
+
+Step 10: Inspect at full resolution.
+Revise if the photograph was stylized, the tear looks digital, the lower scene lost its source identity, the accent color dominates, the typography is incorrect, or the result feels like a generic watercolor poster.
+
+15. NON-NEGOTIABLE FAILURE CONDITIONS
+
+Reject the result if any of the following occurs:
+
+The upper photograph is redrawn, repainted, replaced, or filtered beyond recognition.
+
+The photograph occupies an unsuitable share of the page and destroys the established approximately 30/70 relationship.
+
+The photo-to-paper boundary is straight, clean, scalloped, framed, or digitally smooth.
+
+The lower area introduces generic mountains, cranes, bamboo, temples, flowers, mist, or calligraphy that do not exist in the source.
+
+The lower imagery fails to preserve the source's count, silhouette, axis, spacing, rhythm, or motion.
+
+The ink section becomes a miniature realistic copy instead of a distilled afterimage.
+
+The composition becomes three obvious equal panels.
+
+The paper field is filled edge to edge and loses active negative space.
+
+The paper becomes dirty grunge or exaggerated antique parchment.
+
+Too many collage scraps are added.
+
+Multiple saturated colors compete for attention.
+
+Halftone, paper grain, torn edges, or shadows look uniformly stamped or synthetic.
+
+Text is large, dominant, irrelevant, misspelled, nonsensical, or illegible.
+
+Traditional Chinese decorative symbols are added merely to make the image appear “Asian.”
+
+16. PRODUCTION PROMPT SKELETON
+
+Adapt the following structure to the actual photograph. Do not copy the bracketed placeholders literally.
+
+Create one 1024 x 1536 vertical editorial artwork from the supplied photograph. Preserve the supplied photograph faithfully as a full-bleed upper evidence band occupying approximately 30% of the canvas. Keep the original subject identity, object count, geometry, viewpoint, lighting, and photographic depth. End the photograph with one continuous, irregular, hand-torn fibrous paper edge.
+
+Below the tear, use warm matte ivory paper with subtle natural fibers, restrained mottling, shallow physical texture, and broad active negative space. Re-express [PRIMARY EVIDENCE] first as a smaller [HALFTONE / TRANSFER PRINT / ETCHING / REDUCED-COLOR] memory that preserves [COUNT, RHYTHM, AXIS, OR SPACING]. Re-express it again toward the bottom as a source-bound ink afterimage made from [TWO TO FIVE SPECIFIC WASH MASSES, DRY-BRUSH GESTURES, AND MINIMAL SILHOUETTES].
+
+Carry only [ONE SOURCE-DERIVED ACCENT HUE] into a few small structural marks or fragments. Add [SPECIFIC SPARSE LEADER LINES, NODES, OR CROSSHAIRS] connected to real source relationships. If text is used, render only the exact tiny phrase: “[EXACT CAPTION].”
+
+Keep the full sheet tactile, asymmetrical, quiet, breathable, materially plausible, and unmistakably derived from the supplied photograph. No generic Chinese scenery, no unrelated subjects, no calligraphy, no traditional seal, no straight divider, no framed boxes, no glossy digital texture, no excessive collage, no multiple accent colors, and no illegible text.
+
+17. FINAL STYLE SUMMARY
+
+The defining identity of this family comes from five simultaneous commitments:
+
+A truthful photographic witness remains visible.
+
+A physical torn-paper rupture separates evidence from memory.
+
+The same source scene returns through both print and ink abstraction.
+
+Large warm-paper negative space controls the composition.
+
+One source-derived color accent and a few editorial marks give the sheet contemporary visual precision.
+
+When these commitments remain intact, subject matter can vary widely while the work still belongs unmistakably to the same visual family.
+
+18. UPDATED CREATIVE REFINEMENTS
+
+The production system extends the original reference family with four deliberate refinements.
+
+18.1 More Chromatic Ink, Less Black
+
+Extract two or three useful color families from the source photograph.
+
+Convert these colors into transparent, granulating ink rather than flat digital fills.
+
+Give one source hue the leading role and one or two hues quieter supporting roles.
+
+Use black and charcoal only for structural anchors, sparse contours, print detail, and editorial notation.
+
+Keep black and near-black below roughly 20% of the lower pigment area.
+
+Avoid muddy mixtures, neon saturation, or rainbow color competition.
+
+18.2 Mandatory Difference Between the Two Lower Creations
+
+The middle and bottom interpretations must differ in material, scale, fidelity, and behavior.
+
+Middle: compact, dry, printed, halftone-led, detailed, and relatively legible.
+
+Bottom: expanded, wet, chromatic, low-frequency, more abstract, and spatially surreal.
+
+Never repeat the same crop, subject scale, silhouette treatment, or filter in both areas.
+
+The middle layer records the source; the bottom layer mutates and releases it.
+
+18.3 Source-Bound Surreal Transformation
+
+Add one impossible event that develops from visible source evidence rather than unrelated fantasy. A branch may become an oversized route, reflected water may climb into the sky, a shoreline may fold upward like paper, architecture may dissolve into vertical pigment, or repeated subjects may continue as drifting marks. The transformation must remain traceable to the original photograph.
+
+18.4 Dimensional-Break Bridge
+
+Allow one form originating in the bottom afterimage to travel upward through the middle creation. It may change scale or material as it rises, interact with other elements through overlap or occlusion, pass beneath a paper flap, and cross slightly into the photograph. Limit photographic overlap to approximately 2-8% of the photo band and never hide the primary subject. The gesture should feel like one form crossing dimensions, not an arbitrary line placed over the artwork.
+
+18.5 Handmade-Paper Embrace Around the Photograph
+
+Do not leave the upper photograph as a hard rectangular strip. Embed it in a loose, asymmetrical handmade-paper sleeve. Let warm ivory paper rise around portions of the lower corners and side margins with deckled fibers, slight curl, translucent pulp overlap, and soft contact shadows. Preserve at least 90% of important photographic evidence.
+
+The paper embrace must remain partial and irregular. It must not become a clean four-sided mat or frame. Integrate the seam through one to three local events: a source-colored stain migrating into paper fibers, a halftone fragment dissolving across the tear, an upward colored-ink gesture touching a wrapped corner, or a small paper flap overlapping an unimportant photographic margin. These devices should make photograph, paper, and ink occupy one shared physical and imaginative space.
+
+18.6 Absolute Source-Pixel Lock for the Upper Photograph
+
+The upper photographic evidence band must use the actual supplied source photograph itself.
+
+Treat the uploaded photograph as locked source pixels, not as visual inspiration for regeneration.
+
+The permitted operations for the upper photographic region are limited to:
+
+CROP → SCALE → POSITION → MINIMAL GLOBAL TONAL HARMONIZATION
+
+Crop the original photograph directly to fit the approximately 26–35% upper evidence region while preserving the most important photographic evidence. Prefer crop placement over reconstruction. If the source aspect ratio does not naturally match the evidence band, select the most informative crop from the real photograph rather than generating missing image content.
+
+Do not redraw, regenerate, reconstruct, reinterpret, repaint, beautify, extend, outpaint, replace, or hallucinate any portion of the visible photographic evidence.
+
+Do not alter:
+
+subject identity,
+subject count,
+facial or bodily features,
+animal anatomy,
+architecture,
+object geometry,
+background structures,
+vegetation,
+clouds,
+water,
+reflections,
+signage,
+weather,
+lighting direction,
+shadow geometry,
+camera perspective,
+depth relationships,
+or accidental photographic details.
+
+Do not remove inconvenient objects merely to improve composition.
+
+Do not add objects that were not present.
+
+Do not replace the photographic background.
+
+Do not transform the source photograph into an AI-generated approximation of itself.
+
+The photographic band must retain the natural optical evidence of the original file, including authentic lens behavior, depth of field, motion blur, sensor texture, highlight behavior, shadow information, atmospheric conditions, and incidental imperfections whenever present.
+
+A viewer comparing the upper band with the uploaded photograph should be able to identify it as a direct crop of the same photographic file rather than a newly generated reconstruction.
+
+The handmade-paper embrace, torn fibers, dimensional-break bridge, stains, halftone migration, or other authored interventions may overlap only peripheral and nonessential portions of the photograph. These interventions must behave as physical material placed above the photograph and must never become an excuse to regenerate the photographic content beneath them.
+
+Preserve at least 90% of the important photographic evidence unobstructed.
+
+SOURCE PHOTOGRAPH = IMMUTABLE EVIDENCE.
+
+CROP IT.
+PLACE IT.
+DO NOT REINVENT IT.
+
+18.7 Abstract Surreal Printed Memory
+
+The middle creation must move further away from literal depiction.
+
+Do not treat the middle area as a smaller illustrated copy of the photograph.
+
+Do not simply redraw the complete subject with halftone, graphite, etching, watercolor, or ink contours.
+
+Instead, deconstruct the photographed scene into an abstract observational print system that remains genetically traceable to the source while becoming spatially impossible.
+
+The middle state should operate approximately as:
+
+SOURCE OBSERVATION
+→ STRUCTURAL EXTRACTION
+→ FRAGMENTATION
+→ PRINT TRANSLATION
+→ SPATIAL DISPLACEMENT
+→ CONTROLLED SURREAL REASSEMBLY
+
+Extract only the most characteristic evidence from the source:
+
+partial silhouettes,
+negative-space contours,
+repeated intervals,
+directional axes,
+isolated edges,
+cropped anatomical or architectural fragments,
+reflection shapes,
+shadow geometry,
+selected color remnants,
+perspective traces,
+and recognizable rhythm.
+
+Do not preserve every detail.
+
+Do not complete every silhouette.
+
+Do not explain the entire scene.
+
+Allow recognition to emerge from relationships between fragments.
+
+The middle creation should normally contain approximately three to seven meaningful source-derived structural fragments rather than one complete miniature reconstruction.
+
+Fragments may:
+
+change scale independently,
+become partially transparent,
+repeat as fading print echoes,
+break into halftone fields,
+lose sections through imperfect transfer,
+continue beyond their original boundaries,
+invert locally,
+shift away from their expected position,
+overlap impossible spatial planes,
+merge with negative space,
+be interrupted by paper,
+or connect through thin observational axes.
+
+A recognizable object may survive only as one edge, one contour, one repeated interval, one shadow, or one distinctive color fragment.
+
+Where repeated subjects exist, preserve their underlying count or rhythmic logic without requiring every subject to remain fully illustrated. Their existence may be encoded through corresponding silhouettes, voids, nodes, halftone masses, directional marks, or interrupted contours.
+
+Introduce one restrained source-bound surreal event inside this middle state.
+
+The surreal event must originate from actual photographic evidence.
+
+For example:
+
+a reflection may detach from its object and occupy another spatial plane;
+
+a branch direction may continue as an oversized printed trajectory;
+
+a shoreline may fold into an impossible paper-like plane;
+
+architectural perspective lines may escape the building and become free spatial scaffolding;
+
+a repeated group may gradually dissolve from recognizable silhouettes into abstract intervals;
+
+a shadow may become physically separated from the object that produced it;
+
+water geometry may rise vertically;
+
+a railing rhythm may continue into empty paper after the railing itself disappears;
+
+or one characteristic contour may be enlarged until it becomes an abstract landscape-like structure.
+
+The impossible transformation must remain semantically connected to the source photograph.
+
+Do not introduce unrelated fantasy imagery.
+
+No planets, portals, floating islands, generic dream clouds, celestial objects, random geometric sculptures, invented landscapes, or symbolic motifs unless equivalent evidence genuinely exists in the supplied photograph.
+
+The surrealism must come from changing the behavior of real evidence, not from adding fantasy content.
+
+Materially, the middle should remain predominantly DRY and PRINTED:
+
+imperfect halftone,
+transfer loss,
+etching-like line,
+graphite residue,
+broken registration,
+screen-print texture,
+reduced-color fragments,
+dry pigment,
+fine contour remnants,
+and sparse photographic residue.
+
+Wet atmospheric ink must not dominate this area.
+
+Reserve expansive wet blooms, chromatic diffusion, large absorbent washes, and low-frequency atmospheric masses primarily for the bottom afterimage.
+
+This distinction is mandatory:
+
+MIDDLE = DECONSTRUCTED / DRY / PRINTED / FRAGMENTED / SURREAL / STRUCTURAL
+
+BOTTOM = EXPANDED / WET / CHROMATIC / DIFFUSE / ATMOSPHERIC / EMOTIONAL
+
+The middle should therefore be LESS literally descriptive than before while remaining MORE structurally intelligent.
+
+At first glance, the viewer should perceive an abstract printed construction.
+
+At second glance, relationships from the original photograph should become recognizable.
+
+At no point should the middle read as a complete conventional illustration of the source scene.
+
+18.8 Interpretation Priority for the Middle State
+
+Whenever earlier instructions describe the first memory as recognizable, precise, source-bound, or structurally faithful, interpret these requirements as preservation of RELATIONSHIPS rather than preservation of complete literal depiction.
+
+Structural fidelity has priority over illustrative fidelity.
+
+Preserve count through rhythm.
+Preserve subjects through fragments.
+Preserve geometry through axes.
+Preserve objects through characteristic contours.
+Preserve depth through overlap.
+Preserve movement through directional displacement.
+Preserve color through residue.
+Preserve identity through relationships.
+
+Do not interpret “recognizable” as “fully drawn.”
+
+Do not interpret “source-bound” as “realistically reconstructed.”
+
+Do not interpret “preserve geometry” as “copy every contour.”
+
+The middle state succeeds when the source can be reconstructed mentally from incomplete evidence.
+
+18.9 Middle-to-Bottom Material Interpenetration
+
+The middle printed memory and the bottom ink afterimage must not behave as two isolated illustrations occupying separate horizontal zones.
+
+They are materially different states of the same memory and must visibly interact.
+
+The bottom afterimage should appear to grow upward into the middle state.
+
+At least one major chromatic or diluted ink mass originating in the lower afterimage should rise vertically or diagonally into the lower portion of the printed-memory field.
+
+As it rises, its material behavior may change:
+
+wet pigment may become granular,
+a wash may narrow into a dry-brush trace,
+a broad bloom may encounter halftone and partially absorb it,
+printed dots may become suspended inside translucent ink,
+an etched contour may disappear beneath a wet bloom,
+or a source-derived color may migrate upward through paper fibers.
+
+The middle state must react to this intrusion.
+
+Do not simply place a transparent ink stroke over an unrelated printed drawing.
+
+Allow occlusion, absorption, interruption, displacement, pigment pooling, dot loss, edge bleeding, and partial material transformation to occur where the two systems meet.
+
+Some middle fragments may continue downward and dissolve into the lower ink field.
+
+Some lower ink forms may continue upward and acquire print structure.
+
+This interaction should create a transitional region rather than a clean boundary.
+
+The viewer should not be able to identify one exact horizontal line where “middle” ends and “bottom” begins.
+
+However, the two material languages must remain distinguishable:
+
+the middle remains fundamentally dry, fragmented, printed, analytical, and structurally surreal;
+
+the bottom remains fundamentally wet, expanded, chromatic, atmospheric, absorbent, and emotionally released.
+
+Their difference creates tension.
+
+Their overlap creates unity.
+
+Avoid reproducing the same complete subject once in the middle and once again in the bottom.
+
+Instead, allow information to migrate between them.
+
+A contour begun in the middle may become a wash below.
+
+A repeated halftone rhythm may become three pigment deposits.
+
+A negative-space opening may expand into the principal blank region of the lower composition.
+
+A source-derived directional axis may begin as an etched rule and terminate as a broad wet gesture.
+
+A colored fragment may lose its printed boundary and spread through absorbent paper.
+
+The transition should therefore behave as:
+
+PRINTED STRUCTURE
+→ MATERIAL COLLISION
+→ PARTIAL DISSOLUTION
+→ WET RELEASE
+
+not:
+
+PRINTED PICTURE
+→ EMPTY GAP
+→ SECOND INK PICTURE.
+
+18.10 Upward-Growing Ink Logic
+
+The lower ink afterimage must possess directional energy.
+
+It should not merely rest at the bottom of the sheet like a decorative watercolor vignette.
+
+At least one principal ink relationship should appear to originate from the lower field and travel upward.
+
+The upward movement may follow the source photograph's own dominant directional gesture, perspective axis, branch arc, body orientation, reflection path, architectural line, shoreline direction, or repeated-object rhythm.
+
+This upward gesture should preferably pass through three material conditions:
+
+WET ORIGIN:
+broad, absorbent, chromatic, diffuse, low-frequency pigment in the lower field.
+
+TRANSITIONAL BODY:
+increasingly broken edges, dry-brush interruptions, transferred texture, embedded halftone, or fragmented contours while entering the middle field.
+
+UPPER TRACE:
+a restrained residual line, stain, fragment, fiber migration, or printed interruption approaching the torn photographic boundary.
+
+Only when compositionally useful may the upper trace cross slightly into the photographic evidence band.
+
+Any overlap with the photograph must remain approximately 2–8% of the photo band's area and must never obscure the primary photographic subject.
+
+The result should suggest that memory is physically climbing back toward evidence.
+
+20. MICRO-REGISTRATION CONSTELLATION
+
+In addition to ordinary source-responsive editorial notation, one compact registration relationship may recur as part of the production grammar:
+
+ONE SMALL CROSSHAIR
++
+THREE MICRO REGISTRATION DOTS
++
+ONE SHORT INTERRUPTED RULE
+
+These elements must appear as one subtle relational family rather than five isolated decorations.
+
+Their exact position, rotation, scale, and orientation should adapt to the source photograph.
+
+Do not place them in the same absolute canvas coordinates across every work.
+
+The three dots should not form a perfectly decorative equilateral triangle.
+
+Their spacing should feel measured but slightly unequal.
+
+The interrupted rule should respond to a real directional relationship derived from the photograph.
+
+Whenever compositionally appropriate, allow one of the three dots or one short portion of the rule to inherit the dominant source-derived accent hue while the remaining marks stay muted.
+
+The constellation must occur only once.
+
+It should be discoverable during close inspection but easy to overlook during ordinary viewing.
+
+It must never dominate the artwork.
+
+21. SOURCE-RESPONSIVE AUTHORIAL CONSISTENCY
+
+The internal production grammar must never override the photograph.
+
+Every recurring micro-element should adapt itself to the source rather than forcing the source into a fixed template.
+
+Preserve the following relationship:
+
+SOURCE EVIDENCE
+→ SOURCE-DERIVED STRUCTURE
+→ SOURCE-DERIVED ABSTRACTION
+→ SOURCE-DERIVED NOTATION
+
+The notation therefore belongs to the act of observing the photograph.
+
+A crosshair should correspond to a real axis, intersection, subject relationship, negative-space center, perspective event, or visual tension.
+
+A short rule should inherit a meaningful direction.
+
+A colored node should inherit the chosen accent hue.
+
+A halftone calibration fragment should connect materially to the printed-memory language.
+
+This prevents the archival grammar from becoming a generic stamp.
+
+The recurring identity should be encoded through relationships rather than obvious repetition.
+
+22. CONTROLLED SURREALISM LIMIT
+
+Surrealism is permitted only when it transforms source evidence.
+
+The artwork must never become fantasy illustration.
+
+Use impossible behavior rather than invented objects.
+
+Prefer:
+
+displacement,
+scale contradiction,
+detached reflection,
+folded perspective,
+continuation beyond physical boundaries,
+material transformation,
+partial inversion,
+impossible overlap,
+fragment migration,
+shadow separation,
+spatial compression,
+and dimensional crossing.
+
+Avoid:
+
+invented moons,
+planets,
+galaxies,
+floating islands,
+doors to other worlds,
+generic dream figures,
+random birds,
+fantasy architecture,
+decorative clouds,
+mountain silhouettes not present in the source,
+mystical symbols,
+and unrelated celestial imagery.
+
+The surreal event should make the viewer reconsider the original evidence rather than forget it.
+
+23. THREE-STAGE INFORMATION DECAY
+
+Treat the three states as different information densities rather than three stylistic filters.
+
+The approximate conceptual progression is:
+
+TOP:
+HIGH SEMANTIC INFORMATION
+HIGH PHOTOGRAPHIC SPECIFICITY
+HIGH OPTICAL FIDELITY
+
+MIDDLE:
+MEDIUM SEMANTIC INFORMATION
+HIGH STRUCTURAL INTELLIGENCE
+PARTIAL OBJECT COMPLETION
+CONTROLLED SPATIAL IMPOSSIBILITY
+
+BOTTOM:
+LOW LITERAL INFORMATION
+HIGH MATERIAL INFORMATION
+HIGH ATMOSPHERIC AND EMOTIONAL RESIDUE
+
+As information travels downward, literal description decreases.
+
+As material freedom increases, source relationships remain.
+
+Do not allow the bottom to become semantically unrelated.
+
+Do not allow the middle to retain so much literal information that it becomes a conventional redraw.
+
+The ideal progression is:
+
+SEE
+→ RECALL
+→ DREAM
+
+or, materially:
+
+PHOTOGRAPH
+→ PRINT
+→ INK.
+
+24. FINAL HIERARCHY OF INSTRUCTION PRIORITY
+
+When any earlier and later instruction appears to create tension, apply the following hierarchy:
+
+FIRST PRIORITY:
+Preserve the actual supplied photograph as immutable photographic evidence in the upper band.
+
+SECOND PRIORITY:
+Preserve the semantic identity and structural DNA of the supplied photograph throughout the entire artwork.
+
+THIRD PRIORITY:
+Maintain a strong material distinction between photographic evidence, dry printed memory, and wet ink afterimage.
+
+FOURTH PRIORITY:
+Make the middle state abstract, incomplete, fragmented, structurally surreal, and non-illustrative.
+
+FIFTH PRIORITY:
+Create physical and visual interpenetration between middle print and lower ink.
+
+SIXTH PRIORITY:
+Preserve large active negative space and the tactile warm handmade-paper field.
+
+SEVENTH PRIORITY:
+Use source-derived chromatic ink and restrained black structural anchors.
+
+EIGHTH PRIORITY:
+Allow one controlled source-bound surreal transformation and one dimensional-break relationship.
+
+NINTH PRIORITY:
+Integrate restrained editorial notation and internal archival grammar only when they remain subordinate to the artwork.
+
+TENTH PRIORITY:
+Typography is optional. Visual integrity is mandatory.
+
+When uncertain, preserve evidence rather than invent.
+
+When uncertain, remove detail rather than add fantasy.
+
+When uncertain, preserve relationships rather than complete objects.
+
+When uncertain, allow paper to remain empty.
+
+25. FINAL PRODUCTION COMMAND
+
+Using the photograph supplied in the current turn as the PRIMARY AND SOLE VISUAL EVIDENCE, create one finished 1024 x 1536 RGB vertical editorial artwork in a 2:3 portrait ratio.
+
+The finished work must exist as one continuous tactile authored sheet.
+
+Do not create three framed panels.
+
+Do not create three independent pictures.
+
+Do not create three stylistic filters of the same scene.
+
+Construct one continuous transformation:
+
+ACTUAL SOURCE PHOTOGRAPH
+→ ABSTRACT SURREAL PRINTED MEMORY
+→ EXPANDED CHROMATIC INK AFTERIMAGE.
+
+Use the actual supplied photograph itself for the upper photographic evidence band.
+
+Crop, scale, and position the source file directly.
+
+Do not regenerate it.
+
+Do not redraw it.
+
+Do not repaint it.
+
+Do not reinterpret it.
+
+Do not replace it with an AI approximation.
+
+Do not alter the subjects, count, anatomy, architecture, geometry, background, perspective, light, shadows, reflections, weather, or photographic accidents.
+
+Reserve approximately 26–35% of the canvas height for this direct photographic evidence, with approximately 30% as the preferred visual center.
+
+Embed the photograph into the warm ivory handmade-paper environment through one irregular continuous torn-paper boundary and a loose partial handmade-paper embrace.
+
+Preserve at least 90% of important photographic evidence.
+
+Below the photograph, do not immediately redraw the complete scene.
+
+Extract its visual DNA:
+
+PRIMARY EVIDENCE,
+COUNT OR RHYTHM,
+DIRECTIONAL GESTURE,
+NEGATIVE-SPACE SHAPE,
+AND SOURCE-DERIVED COLOR.
+
+Translate these relationships into an abstract surreal printed-memory field.
+
+Use approximately three to seven meaningful fragments.
+
+Favor incomplete contours, halftone fields, transferred remnants, broken registration, etched axes, isolated silhouettes, enlarged source-derived structures, displaced shadows, partial negative spaces, reduced-color fragments, and interrupted spatial relationships.
+
+Make this middle state visibly derived from the source but not immediately literal.
+
+At first glance it should read as an abstract editorial print construction.
+
+At second glance the original photographic relationships should become discoverable.
+
+Do not make it a complete illustration.
+
+Do not make it a smaller copy of the photograph.
+
+Do not make every subject fully drawn.
+
+Preserve count through rhythm.
+
+Preserve subjects through fragments.
+
+Preserve geometry through axes.
+
+Preserve identity through relationships.
+
+Introduce one controlled surreal transformation generated only from source evidence.
+
+Change the behavior of something real rather than adding something imaginary.
+
+Toward the bottom, release the printed structure into a broader chromatic ink afterimage.
+
+Use approximately two to five principal wet pigment masses accompanied by only the necessary dry-brush gestures, residual contours, and source-specific silhouettes.
+
+Allow source-derived color to behave like transparent granulating ink.
+
+Keep black subordinate.
+
+Let the bottom become broader, wetter, quieter, more atmospheric, and less literally descriptive than the middle.
+
+Do not create a miniature realistic ink painting.
+
+Make the lower image recognizable through relationships, rhythm, directional energy, and material memory.
+
+The middle and bottom must physically interact.
+
+Let wet pigment rise upward.
+
+Let print descend and dissolve.
+
+Let halftone enter washes.
+
+Let contours disappear beneath pigment.
+
+Let color migrate through paper.
+
+Let one directional relationship cross the material boundary.
+
+Do not create an empty horizontal gap between them.
+
+Do not repeat the same subject composition twice.
+
+The transition must feel like one memory changing physical state.
+
+Allow one principal lower ink gesture to grow upward through the middle printed field and, only when compositionally useful, approach or slightly cross the torn photographic edge.
+
+Any photographic overlap must remain restrained, approximately 2–8% of the photo band, and must never obscure the primary subject.
+
+Maintain broad active negative space throughout the paper field.
+
+The handmade paper should remain warm ivory, matte, fibrous, softly absorbent, tactile, restrained, and physically plausible.
+
+Do not make it dirty.
+
+Do not make it heavily distressed.
+
+Do not make it antique parchment.
+
+Do not fill every empty region.
+
+Extract two or three useful source color families for the ink system while maintaining one clear dominant accent hue.
+
+Keep saturated accent color subordinate.
+
+Keep black and near-black below roughly 20% of the lower pigment area.
+
+Use editorial notation sparingly.
+
+Connect every line, node, crosshair, matrix, or registration mark to an actual source-derived relationship.
+
+When technically feasible, integrate the internal archival micro-grammar naturally into this notation without allowing it to become visible branding.
+
+If typography is used, keep it tiny, exact, readable, observational, and secondary.
+
+Never generate meaningless pseudo-English.
+
+Never generate pseudo-Asian writing.
+
+Never add calligraphy merely for atmosphere.
+
+Never add a traditional seal.
+
+Never introduce generic Chinese scenery.
+
+Never introduce unrelated mountains, bamboo, cranes, temples, flowers, mist, celestial imagery, fantasy architecture, symbolic portals, or decorative dream motifs absent from the source.
+
+The final artwork should feel quiet but not empty, experimental but not arbitrary, surreal but not fantastical, contemporary but materially handmade, source-bound but not literal, and visually unified without becoming stylistically uniform.
+
+The viewer must experience one continuous transformation:
+
+REALITY REMAINS ABOVE.
+
+MEMORY FRACTURES IN THE MIDDLE.
+
+INK RISES FROM BELOW.
+
+THE THREE STATES TOUCH.
+
+THE MATERIALS CHANGE.
+
+THE SOURCE REMAINS.
+================================================================================
+【完整口令｜从这里结束】【完整口令｜从这里结束】【完整口令｜从这里结束】【完整口令｜从这里结束】
+================================================================================
+【发布作品时】
+Skill拥有版权，使用自己的照片生成并公开发布作品时，请在标题、正文或评论中标注：
+使用 Skill：Starryear-Ink
+也欢迎在平台支持的情况下 @Starryear 或 @Starryear 年，让我能够看到你的作品。标注和 @ 是对原创方法与作者最友好的支持。
+====================
+【版权与使用说明】
+1. 本分享包中的 Skill 文件、完整口令、方法文字、网站内容、示例作品及 Starryear 原创摄影，版权及相关权益归 Starryear 所有。
+2. 欢迎个人学习、体验，并使用自己拥有合法权利的照片进行创作和非商业分享。
+3. 未经书面授权，不得转载或商用 Starryear 的示例摄影和示例作品；不得将本 Skill、口令或方法改名后重新打包、售卖、用于付费课程、素材包或冒充原创发布。
+4. 如果照片由他人拍摄，或包含受限制的人像、商标、建筑、展览和艺术品，请先取得必要授权。
+5. 使用 AI 平台生成的作品，还应遵守所使用平台的条款及所在地法律法规。商业项目、品牌合作、出版和大规模传播建议提前联系授权。
+6. 版权及商务授权联系：**[Starryear@outlook.com](mailto:Starryear@outlook.com)**
+====================
+

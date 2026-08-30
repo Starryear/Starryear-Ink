@@ -1,4 +1,4 @@
-# Starryear-Ink 星年水墨
+# S.005 · Starryear-Ink 星年水墨
 
 将一张真实摄影转译为一张连续的竖向纸本作品：
 
@@ -13,6 +13,8 @@ Starryear-Ink 保留原照片的直接证据带，让场景在向下移动时逐
 - 画布：**1024 × 1536 RGB**
 - 许可证：[Starryear Personal Use and Attribution License](LICENSE.md)
 - 完整方法：[SKILL.md](SKILL.md)
+- 原始口令：[【005】Starryear-Ink 星年水墨.txt](%E3%80%90005%E3%80%91Starryear-Ink%20%E6%98%9F%E5%B9%B4%E6%B0%B4%E5%A2%A8.txt)
+- 专属网站：[starryear.github.io/Starryear-Ink](https://starryear.github.io/Starryear-Ink/)
 
 ## 安装
 
